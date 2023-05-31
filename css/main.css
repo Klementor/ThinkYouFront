@@ -11,3 +11,22 @@ img {
     background-size: cover;
     width: 100%;
 }
+
+.register-form {
+    width: 300px;
+    background-color: #d9d6d6;
+    padding: 12px;
+    border-radius: 5px;
+    margin: 50px auto auto;
+}
+
+.register-form-button {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.register-form-button button {
+    margin: auto;
+    display: block;
+    width: 100%;
+}

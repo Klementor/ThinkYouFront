@@ -23,9 +23,10 @@ img {
     background-color: #d9d6d6;
     padding: 12px;
     border-radius: 5px;
-    margin: 70px auto auto;
+    margin: 7% auto auto;
     position: relative;
     z-index: 1;
+    box-shadow: 0 0 12px -5px black;
 }
 
 .register-form-button {

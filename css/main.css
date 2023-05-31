@@ -5,6 +5,12 @@
     overflow: hidden;
 }
 
+.wrapper-register {
+    top: 70px;
+    z-index: 0;
+    position: absolute;
+}
+
 img {
     background-repeat: no-repeat;
     background-position: center;
@@ -17,7 +23,9 @@ img {
     background-color: #d9d6d6;
     padding: 12px;
     border-radius: 5px;
-    margin: 50px auto auto;
+    margin: 70px auto auto;
+    position: relative;
+    z-index: 1;
 }
 
 .register-form-button {

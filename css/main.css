@@ -19,7 +19,18 @@ img {
 
 .register-form {
     width: 300px;
-    background-color: #d9d6d6;
+    background-color: #d8d8d8;
+    padding: 12px;
+    border-radius: 5px;
+    margin: 2% auto auto;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 0 12px -5px black;
+}
+
+.results-form {
+    width: 500px;
+    background-color: #d8d8d8;
     padding: 12px;
     border-radius: 5px;
     margin: 2% auto auto;
